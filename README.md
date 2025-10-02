@@ -99,6 +99,13 @@ const guilherme = {
 
 <div align="center">
 
+<!-- Badge e logo do projeto em destaque -->
+[![Krunker.io Cheat 2025](https://img.shields.io/badge/GitHub-Krunker.io%20Cheat%202025-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guisoaresx/krunkerio-cheat-2025)
+<br>
+<img src="https://static.wikia.nocookie.net/krunkerio/images/8/88/Logo_hires.png/revision/latest?cb=20201112150523" alt="Krunker.io logo" width="110"/>
+
+<br><br>
+
 ![Snake animation](https://raw.githubusercontent.com/guisoaresx/guisoaresx/output/github-contribution-grid-snake.svg)
 
 </div>
