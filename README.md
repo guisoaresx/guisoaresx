@@ -13,8 +13,8 @@
 ```javascript
 const guilherme = {
     localização: "Brasil 🇧🇷",
-    idade: 25,
-    família: "Casado, pai de um bebê de 1 ano 👶",
+    idade: 26,
+    família: "Casado, pai de dois bebês!",
     empresa: "Microset Tecnologia LTDA",
     especialidade: "Prompt Engineering & Desenvolvimento Web com IA",
     foco: ["Gestão de Documentos", "Integrações", "Desenvolvimento Web", "Automação com IA"],
