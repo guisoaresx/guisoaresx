@@ -15,7 +15,6 @@ const guilherme = {
     localização: "Brasil 🇧🇷",
     idade: 26,
     família: "Casado, pai de dois bebês!",
-    empresa: "Microset Tecnologia LTDA",
     especialidade: "Prompt Engineering & Desenvolvimento Web com IA",
     foco: ["Gestão de Documentos", "Integrações", "Desenvolvimento Web", "Automação com IA"],
     aprendendo: ["IA Generativa", "Engenharia de Prompt", "APIs Modernas"],
